@@ -50,47 +50,48 @@ Example:<br>
   Arguments line will be parsed this way:<br>
   <br>
   All arguments:<br>
-        arg1
-        arg2
-        arg 3
-        -key1
-        Value 1
-        arg4
-        -Key2
-        Value 2
-        -singlequotes
-        one newline1 ->
-      two, double quote """
-        -doublequotes
-        double quote " newline2 ->
-      ++
-        --some_array
-        oc
-        toc
-        perevertoc
-        A B C D
-        -key3
-        value3
-        😄😄
-        😄😄😄😄
-  Unnamed arguments:
-        arg1
-        arg2
-        arg 3
-        arg4
-        😄😄
-        😄😄😄😄
-  Named arguments:
-        key1 => Value 1
-        Key2 => Value 2
-        doublequotes => double quote " newline2 ->
-      ++
-        key3 => value3
-        singlequotes => one newline1 ->
-      two, double quote """
-  Named arrays:
-        some_array => 
-                oc
-                toc
-                perevertoc
-                A B C D
+        arg1<br>
+        arg2<br>
+        arg 3<br>
+        -key1<br>
+        Value 1<br>
+        arg4<br>
+        -Key2<br>
+        Value 2<br>
+        -singlequotes<br>
+        one newline1 -><br>
+      two, double quote """<br>
+        -doublequotes<br>
+        double quote " newline2 -><br>
+      ++<br>
+        --some_array<br>
+        oc<br>
+        toc<br>
+        perevertoc<br>
+        A B C D<br>
+        -key3<br>
+        value3<br>
+        😄😄<br>
+        😄😄😄😄<br>
+  Unnamed arguments:<br>
+        arg1<br>
+        arg2<br>
+        arg 3<br>
+        arg4<br>
+        😄😄<br>
+        😄😄😄😄<br>
+  Named arguments:<br>
+        key1 => Value 1<br>
+        Key2 => Value 2<br>
+        doublequotes => double quote " newline2 -><br>
+      ++<br>
+        key3 => value3<br>
+        singlequotes => one newline1 -><br>
+      two, double quote """<br>
+  Named arrays:<br>
+        some_array => <br>
+                oc<br>
+                toc<br>
+                perevertoc<br>
+                A B C D<br>
+<br>
